@@ -18,7 +18,7 @@ ShortLink is a URL shortening service where you enter a URL such as https://yell
 
 ## Evaluation Criteria
 * Coding Language best practices
-* API implemented featuring an /encode and /decode endpoint
+* API implemented featuring an `/encode` and `/decode` endpoint
 * Show us your work through your commit history
 * Completeness: Did you complete the features? Are you able to demonstrate that?
 * Correctness: Does the functionality act in sensible, thought-out ways?
