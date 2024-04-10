@@ -23,7 +23,8 @@ ShortLink is a URL shortening service where you enter a URL such as https://yell
 - Completeness: did you complete the features? Are we able to demonstrate that?
 - Correctness: does the functionality act in sensible, thought-out ways?
 - Maintainability: is it written in a clean, maintainable way?
-It doesn’t have to be perfect. Writing code always involves trade-offs and design decisions. The most important thing is your ability to speak about the decisions you have made.
+
+**It doesn’t have to be perfect. Writing code always involves trade-offs and design decisions. The most important thing is your ability to speak about the decisions you have made.**
 
 ## Submission Process:
 - Please submit your code in a new Github repository. You can start by forking this repository into your own account and then create a clone of that locally.
