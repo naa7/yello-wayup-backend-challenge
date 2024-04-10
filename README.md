@@ -8,8 +8,8 @@ ShortLink is a URL shortening service where you enter a URL such as https://yell
 
 ## Tasks 
 - Implement assignment using: 
-  - Language: Python or NodeJS
-  - Framework: Your choice, Django or ExpressJS would both be options.
+  - Language: Python or NodeJS preferred.
+  - Framework: Your choice, Django or ExpressJS would both be possible options, but neither is required.
 - Two endpoints are required:
   1. /encode - Encodes a URL to a shortened URL
   2. /decode - Decodes a shortened URL to its original URL. 
